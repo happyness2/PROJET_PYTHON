@@ -1,0 +1,22 @@
+Pour parfaire ce projet , 
+nous avons travaillé sous visual studio code
+
+les commandes utilisées :
+
+FastApi
+
+pip install SQLAlchemy
+
+pip install fastapi[all]
+
+pip install requests
+
+pip install uvicorn
+
+uvicorn api:app --reload
+
+Les documentations utilisées : 
+
+SQLAlchemy pour accéder à la base de données,
+FastAPI pour réaliser l’API,
+Requests pour le script récupérant les données de l’API.
